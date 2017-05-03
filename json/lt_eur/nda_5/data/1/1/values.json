@@ -1,0 +1,49 @@
+{
+  "success" : true,
+  "data" : [ {
+    "id" : 1,
+    "name" : "A. Žemės ūkis, miškininkystė ir žuvininkystė",
+    "label" : "A. Žemės ūkis, miškininkystė ir žuvininkystė",
+    "val1" : "4.00"
+  }, {
+    "id" : 2,
+    "name" : "C. Apdirbamoji gamyba",
+    "label" : "C. Apdirbamoji gamyba",
+    "val1" : "2.00"
+  }, {
+    "id" : 3,
+    "name" : "F. Statyba",
+    "label" : "F. Statyba",
+    "val1" : "1.00"
+  }, {
+    "id" : 4,
+    "name" : "G. Didmeninė ir mažmeninė prekyba; variklinių transporto priemonių ir motociklų remontas, iš viso",
+    "label" : "G. Didmeninė ir mažmeninė prekyba; variklinių transporto priemonių ir motociklų remontas, ...",
+    "val1" : "25.00"
+  }, {
+    "id" : 5,
+    "name" : "H. Transportas ir saugojimas",
+    "label" : "H. Transportas ir saugojimas",
+    "val1" : "4.00"
+  }, {
+    "id" : 6,
+    "name" : "I. Apgyvendinimo ir maitinimo paslaugų veikla",
+    "label" : "I. Apgyvendinimo ir maitinimo paslaugų veikla",
+    "val1" : "10.00"
+  }, {
+    "id" : 7,
+    "name" : "N. Administracinė ir aptarnavimo veikla",
+    "label" : "N. Administracinė ir aptarnavimo veikla",
+    "val1" : "3.00"
+  }, {
+    "id" : 8,
+    "name" : "Q. Žmonių sveikatos priežiūra ir socialinis darbas",
+    "label" : "Q. Žmonių sveikatos priežiūra ir socialinis darbas",
+    "val1" : "1.00"
+  }, {
+    "id" : 9,
+    "name" : "S. Kita aptarnavimo veikla",
+    "label" : "S. Kita aptarnavimo veikla",
+    "val1" : "2.00"
+  } ]
+}

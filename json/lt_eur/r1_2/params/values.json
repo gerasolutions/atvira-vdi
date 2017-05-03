@@ -1,0 +1,14 @@
+{
+  "success" : true,
+  "data" : [ {
+    "id" : 1,
+    "name" : "year",
+    "label" : "2016",
+    "default" : false
+  }, {
+    "id" : 2,
+    "name" : "year",
+    "label" : "2017",
+    "default" : true
+  } ]
+}

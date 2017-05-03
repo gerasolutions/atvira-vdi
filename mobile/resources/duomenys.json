@@ -1,0 +1,225 @@
+{
+	items: [{
+		text: '<b>Biudžetas',
+		items: [{
+			text: '<b><i>Struktūra --></i></b> VSDF pinigų įplaukos (mln. €)', leaf: true, grafikas: 'biudzetas_11_1/', params: 2, chartType: 'pie', url1: 0, url2: 0
+		},{ 
+			text: '<b><i>Struktūra --></i></b> VSDF priskaičiuotos piniginės išlaidos (mln. €)', leaf: true, grafikas: 'biudzetas_11_2/', params: 2, chartType: 'pie', url1: 0, url2: 0
+		},{
+			text: '<b><i>Tendencijos --></i></b> Pajamos, išlaidos ir rezultatas (mln. €) ir bendras įmokų tarifas (proc.)', leaf: true, grafikas: 'biudzetas_12_1/', params: 0, chartType: 'complex'
+		},{
+			text: '<b><i>Tendencijos --></i></b> VSDF pinigų įplaukos (mln. €)', leaf: true, grafikas: 'biudzetas_12_2/', params: 1, chartType: 'line3', url1: 0
+		},{
+			text: '<b><i>Tendencijos --> </i></b>VSDF priskaičiuotos piniginės išlaidos (mln. €)', leaf: true, grafikas: 'biudzetas_12_3/', params: 1, chartType: 'line3', url1: 0
+		},{
+			text: '<b><i>Tendencijos --></i></b> VSDF biudžeto rezultatas (mln. €)', leaf: true, grafikas: 'biudzetas_12_4/', params: 1, chartType: 'line3', url1: 0
+		},{
+			text: '<b><i>Draudimo rūšys --></i></b> VSDF pinigų įplaukos, priskaičiuotos piniginės išlaidos ir rezultatas pagal draudimo rūšis (mln. €)', leaf: true, grafikas: 'biudzetas_13_1/', params: 2, chartType: 'barson3', url1: 0, url2: 0
+		},{
+			text: '<b><i>Skola --></i></b> VSDF biudžeto skola (mln. €)', leaf: true, grafikas: 'biudzetas_14_1/', params: 1, chartType: 'bar', url1: 0
+		}]
+	},{
+		text: '<b>Pensijos',
+		items:[{
+			text: '<b><i>Pensijų gavėjai --> </i></b>Pensijų gavėjų skaičius pagal pensijų rūšis (tūkst.)', leaf: true, grafikas: 'pensijos_1_1/', params: 2, chartType: 'barSon', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensijų gavėjai --> </i></b>Pensijų gavėjų skaičius pagal pensijų rūšis ir užimtumą (tūkst.)', leaf: true, grafikas: 'pensijos_1_2/', params: 2, chartType: 'bar2', url1: 0, url2: 1
+		},{
+			text: '<b><i>Pensijų gavėjai --> </i></b>Senatvės pensijų gavėjai pagal lytį (tūkst.)', leaf: true, grafikas: 'pensijos_1_3/', params: 1, chartType: 'bar2line', url1: 0
+		},{
+			text: '<b><i>Pensijų gavėjai --> </i></b>Senatvės pensijų gavėjų pasiskirstymas pagal lytį ir amžiaus grupes (tūkst.)', leaf: true, grafikas: 'pensijos_1_4/', params: 2, chartType: 'bar2line', title: ['Moterys', 'Vyrai', 'Iš viso'], url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensijų gavėjai --></i></b> Netekto darbingumo pensijų (skiriamos nuo 2005 m. liepos 1 d.) gavėjų pasiskirstymas pagal netekto darbingumo lygį (tūks.)', leaf: true, grafikas: 'pensijos_1_5/', params: 2, chartType: 'pie', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensijų gavėjai --></i></b> Netekto darbingumo pensijų gavėjų pasiskirstymas pagal amžių ir netekto darbingumo lygį', leaf: true, grafikas: 'pensijos_1_6/', params: 1, chartType: 'bar', url1: 1
+		},{
+			text: '<b><i>Pensijų gavėjai --> </i></b>Invalidumo pensijų (buvo skiriamos iki 2005 m. liepos 1 d.) gavėjų pasiskirstymas pagal invalidumo grupes', leaf: true, grafikas: 'pensijos_1_7/', params: 2, chartType: 'pie', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensijų gavėjai --></i></b> Invalidumo pensijų pasiskirstymas pagal amžių ir invalidumo grupes', leaf: true, grafikas: 'pensijos_1_8/', params: 1, chartType: 'bar', url1: 1
+		},{
+			text: '<b><i>Pensijų dydžiai --></i></b> Vidutinė pensija pagal pensijų rūšis (€)', leaf: true, grafikas: 'pensijos_2_1/', params: 2, chartType: 'barSon', title: 'Vidutinė pensija', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensijų dydžiai --></i></b> Perskaičuota pensijų suma pagal pensijų rūšis (mln. €)', leaf: true, grafikas: 'pensijos_2_2/', params: 2, chartType: 'barSon', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensijų dydžiai --> </i></b>Vidutinė pensija pagal pensijų rūšis (€) (2)', leaf: true, grafikas: 'pensijos_2_3/', params: 2, chartType: 'bar', title: 'Vidutinė pensija', url1: 0, url2: 1
+		},{
+			text: '<b><i>Pensijų dydžiai --></i></b> Perskaičuota pensijų suma pagal pensijų rūšis (mln. €) (2)', leaf: true, grafikas: 'pensijos_2_4/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: '<b><i>Pensijų dydžiai --> </i></b>Vidutinė senatvės pensija turint būtinąjį stažą (€) (metais)', leaf: true, grafikas: 'pensijos_2_5/', params: 0, chartType: 'bar2'
+		},{
+			text: '<b><i>Pensijų dydžiai --></i></b> Vidutinė senatvės pensija turint būtinąjį stažą (€) (mėnesiais)', leaf: true, grafikas: 'pensijos_2_6/', params: 1, chartType: 'bar2', url1: 0
+		},{
+			text: '<b><i>Pensijų fondai --></i></b> Pervesta VSD įmokų suma (mln. €)', leaf: true, grafikas: 'pensijos_3_1/', params: 0, chartType: 'bar2line'
+		},{
+			text: '<b><i>Pensijų fondai --> </i></b>Priskaičuota suma (mln. €)', leaf: true, grafikas: 'pensijos_3_2/', params: 1, chartType: 'barstack4', url1: 0
+		},{
+			text: '<b><i>Pensijų fondai --> </i></b>Pensijų fondų dalyvių skaičius (tūkst.) (metai)', leaf: true, grafikas: 'pensijos_3_3/', params: 0, chartType: 'bar'
+		},{
+			text: '<b><i>Pensijų fondai --></i></b> Pensijų fondų dalyvių skaičius (tūkst.) (ketvirčiai)', leaf: true, grafikas: 'pensijos_3_4/', params: 1, chartType: 'bar', url1: 0
+		},{
+			text: '<b><i>Pensijų fondai --></i></b> Pensijų fondų dalyvių struktūra (tūkst.)', leaf: true, grafikas: 'pensijos_3_5/', params: 1, chartType: 'pie', url1: 1
+		},{
+			text: '<b><i>Pensijų fondai --></i></b> Papildomą pensijų įmoka į pensijų fondus mokėsiančių dalyvių skaičiaus kitimas', leaf: true, grafikas: 'pensijos_3_6/', params: 1, chartType: 'barstack2', url1: 1
+		},{
+			text: '<b><i>Pensijų fondai --> </i></b>Sustabdžiusių įmokas į pensijų fondus dalyvių skaičius', leaf: true, grafikas: 'pensijos_3_7/', params: 1, chartType: 'bar', url1: 1
+		},{
+			text: '<b><i>Pensijų fondai --></i></b> Pagal iki 2012 m. gruodžio 31 d. galiojusias sąlygas įmokas mokėsiančių pensijų fondų dalyvių skaičiaus kitimas (tūkst.)', leaf: true, grafikas: 'pensijos_3_8/', params: 1, chartType: 'bar', url1: 1
+		}]
+	},{
+		text: '<b>Ligos ir motinystės išmokos',
+		items: [{
+			text: '<b><i>Išmokų gavėjai --> </i></b>Pašalpų atvejų (gavėjų) skaičius pagal pašalpų rūšis (tūkst.)', leaf: true, grafikas: 'pasalpos_11_1/', params: 2, chartType: 'line', url1: 0, url2: 1
+		},{ 
+			text: '<b><i>Išmokų gavėjai --></i></b> Motinystės (tėvystės) pašalpų gavėjų skaičiaus pagal lytį kitimas (tūkst.)', leaf: true, grafikas: 'pasalpos_11_2/', params: 0, chartType: 'bar2'
+		},{ 
+			text: '<b><i>Išmokų gavėjai --> </i></b>Motinystės (tėvystės) pašalpų gavėjų skaičius pagal lytį (tūkst.)', leaf: true, grafikas: 'pasalpos_11_3/', params: 1, chartType: 'bar2', url1: 0
+		},{
+			text: '<b><i>Išmokų dydžiai --> </i></b>Vidutinių pašalpų pagal pašalpų rūšis kitimas (€)', leaf: true, grafikas: 'pasalpos_12_1/', params: 0, chartType: 'line5'
+		},{
+			text: '<b><i>Išmokų dydžiai --></i></b> Vidutinės pašalpos pagal pašalpų rūšis (€)', leaf: true, grafikas: 'pasalpos_12_2/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{ 
+			text: '<b><i>Išmokų dydžiai --> </i></b>Vidutinių pašalpų pagal pašalpų rūšis atskirose savivaldybėse kitimas (€)', leaf: true, grafikas: 'pasalpos_12_3/', params: 2, chartType: 'bar', url1: 1, url2: 1
+		},{
+			text: '<b><i>Išmokoms priskaičiuota suma --></i></b> Pašalpoms priskaičiuotos sumos pagal pašalpų rūšis kitimas (mln. €)', leaf: true, grafikas: 'pasalpos_13_1/', params: 1, chartType: 'line', url1: 1
+		},{
+			text: '<b><i>Išmokoms priskaičiuota suma --> </i></b>Pašalpoms priskaičiuota suma pagal pašalpų rūšis (mln. €)', leaf: true, grafikas: 'pasalpos_13_2/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: '<b><i>Išmokoms priskaičiuota suma --> </i></b>Pašalpoms priskaičiuotos sumos pagal pašalpų rūšis ir porūšių kitimas (mln. €)', leaf: true, grafikas: 'pasalpos_13_3/', params: 1, chartType: 'line', url1: 1
+		},{
+			text: '<b><i>Išmokoms priskaičiuota suma --></i></b> Pašalpoms priskaičiuota suma pagal pašalpų rūšis ir porūšius (mln. €)', leaf: true, grafikas: 'pasalpos_13_4/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: '<b><i>Išmokomis apmokėtos dienos --></i></b> Apmokėtų dienų (pašalpų) skaičiaus pagal pašalpų rūšis kitimas (tūkst.)', leaf: true, grafikas: 'pasalpos_14_1/', params: 1, chartType: 'line', url1: 1
+		},{
+			text: '<b><i>Išmokomis apmokėtos dienos --> </i></b>Apmokėtų dienų (pašalpų) skaičius pagal pašalpų rūšis (tūkst.)', leaf: true, grafikas: 'pasalpos_14_2/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: '<b><i>Išmokomis apmokėtos dienos --></i></b> Apmokėtų dienų (pašalpų) skaičiaus pagal pašalpų rūšis ir porūšius kitimas (tūkst.)', leaf: true, grafikas: 'pasalpos_14_3/', params: 1, chartType: 'line', url1: 1
+		},{
+			text: '<b><i>Išmokomis apmokėtos dienos --></i></b> Apmokėtų dienų (pašalpų) skaičius pagal pašalpų rūšis ir porūšius (tūkst.)', leaf: true, grafikas: 'pasalpos_14_4/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		}]
+	},{
+		text: '<b>Nelaimingų atsitikimų darbe ir profesinių ligų išmokos',
+		items: [{
+			text: '<b><i>Išmokų gavėjai --> </i></b>Nelaimingų atsitikimų darbe ir profesinių ligų išmokų atvejų (gavėjų) skaičius pagal išmokų rūšis (tūkst.)', leaf: true, grafikas: 'pasalpos_21_1/', params: 1, chartType: 'line5', url1: 0
+		},{
+			text: '<b><i>Išmokų gavėjai --></i></b> Ligos pašalpų dėl draudiminio įvykio gavėjų skaičius pagal priežastis', leaf: true, grafikas: 'pasalpos_21_2/', params: 1, chartType: 'bar2', url1: 0
+		},{ 
+			text: '<b><i>Išmokų gavėjai --> </i></b>Netekto darbingumo vienkartinės kompensacijos gavėjų skaičius pagal netekto darbingumo lygį ir tipus', leaf: true, grafikas: 'pasalpos_21_3/', params: 2, chartType: 'bar2', url1: 0, url2: 1
+		},{ 
+			text: '<b><i>Išmokų gavėjai --> </i></b>NAD ir PL išmokų gavėjų skaičius pagal lytį (tūkst.)', leaf: true, grafikas: 'pasalpos_21_4/', params: 1, chartType: 'bar2line', url1: 0
+		},{
+			text: '<b><i>Išmokoms priskaičiuota suma --> </i></b>Nelaimingų atsitikimų darbe ir profesinių ligų išmokų struktūra (mln. €)', leaf: true, grafikas: 'pasalpos_22_1/', params: 1, chartType: 'pie', url1: 0
+		},{
+			text: '<b><i>Išmokoms priskaičiuota suma --> </i></b>Nelaimingų atsitikimų darbe ir profesinių ligų išmokoms priskaičiuota suma (mln. €)', leaf: true, grafikas: 'pasalpos_22_2/', params: 1, chartType: 'line5', url1: 0
+		},{
+			text: '<b><i>Išmokų skaičius --> </i></b>Nelaimingų atsitikimų darbe ir profesinių ligų išmokų skaičius pagal išmokų rūšis (tūkst.)', leaf: true, grafikas: 'pasalpos_23_1/', params: 1, chartType: 'pie', url1: 0
+		},{
+			text: '<b><i>Išmokų skaičius --> </i></b>Nelaimingų atsitikimų darbe ir profesinių ligų išmokų skaičius pagal išmokų rūšis (tūkst.) (2)', leaf: true, grafikas: 'pasalpos_23_2/', params: 1, chartType: 'line4', url1: 0
+		}]
+	},{
+		text: '<b>Nedarbo socialinio draudimo išmokos',
+		items: [{
+			text: '<b><i>Išmokų gavėjai --> </i></b>Išmokų gavėjų skaičius (tūkst.)', leaf: true, grafikas: 'pasalpos_31_1/', params: 1, chartType: 'bar2', url1: 0
+		},{ 
+			text: '<b><i>Išmokų gavėjai --> </i></b>Išmokų gavėjų skaičius pagal lytį (tūkst.)', leaf: true, grafikas: 'pasalpos_31_2/', params: 3, chartType: 'pie', url1: 0, url2: 0
+		},{ 
+			text: '<b><i>Išmokų gavėjai --> </i></b>Vidutinis išmokų gavėjų skaičius savivaldybėse(tūkst.)', leaf: true, grafikas: 'pasalpos_31_7/', params: 1, chartType: 'bar', url1: 1
+		},{
+			text: '<b><i>Išmokų gavėjai --></i></b> Išmokų gavėjų skaičius savivaldybėse (tūkst.)', leaf: true, grafikas: 'pasalpos_31_3/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{ 
+			text: '<b><i>Išmokų gavėjai --> </i></b>Išmokų gavėjų skaičius pagal amžių ir lytį (tūkst.)', leaf: true, grafikas: 'pasalpos_31_4/', params: 2, chartType: 'bar2line', url1: 0, url2: 0
+		},{ 
+			text: '<b><i>Išmokų gavėjai --></i></b> Išmokų gavėjų skaičius pagal išmokos dydį (už pilną mėnesį) ir lytį (tūkst.)', leaf: true, grafikas: 'pasalpos_31_5/', params: 2, chartType: 'bar2line', url1: 0, url2: 0
+		},{
+			text: '<b><i>Išmokų dydžiai --> </i></b>Vidutinė išmoka (už pilną mėnesį, €)', leaf: true, grafikas: 'pasalpos_32_1/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: '<b><i>Išmokų dydžiai --> </i></b>Vidutinė išmoka savivaldybėse(už pilną mėnesį, €) (metais)', leaf: true, grafikas: 'pasalpos_32_3/', params: 1, chartType: 'bar', url1: 1
+		},{ 
+			text: '<b><i>Išmokų dydžiai --></i></b> Vidutinė išmoka savivaldybėse(už pilną mėnesį, €) (mėnesiais)', leaf: true, grafikas: 'pasalpos_32_2/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: '<b><i>Išmokoms priskaičiuota suma --></i></b> Išmokoms priskaičiuota suma (mln. €)', leaf: true, grafikas: 'pasalpos_33_1/', params: 1, chartType: 'bar2', url1: 0
+		},{
+			text: '<b><i>Išmokoms priskaičiuota suma --> </i></b>Išmokoms priskaičiuota suma savivaldybėse (tūkst. €)', leaf: true, grafikas: 'pasalpos_33_2/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: '<b><i>Išmokų vidutinė mokėjimo trukmė --></i></b> Išmokos vidutinė mokėjimo trukmė (už pilną mėnesį, mėn.)', leaf: true, grafikas: 'pasalpos_34_1/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: '<b><i>Išmokų vidutinė mokėjimo trukmė --></i></b> Išmokos vidutinė mokėjimo trukmė savivaldybėse (už pilną mėnesį, mėn.) (metais)', leaf: true, grafikas: 'pasalpos_34_3/', params: 1, chartType: 'bar', url1: 1
+		},{
+			text: '<b><i>Išmokų vidutinė mokėjimo trukmė --> </i></b>Išmokos vidutinė mokėjimo trukmė savivaldybėse (už pilną mėnesį, mėn.) (mėnesiais)', leaf: true, grafikas: 'pasalpos_34_2/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		}]
+	},{
+		text: '<b>Draudėjai ',
+		items: [{
+			text: '<b><i>Draudėjų skaičius --> </i></b>Draudėjų skaičiaus metų paskutiniais ketvirčiais kitimas (tūkst.)', leaf: true, grafikas: 'draudejai_1_1/', params: 0, chartType: 'line'
+		},{
+			text: '<b><i>Draudėjų skaičius --></i></b>Draudėjų skaičius (tūkst.)', leaf: true, grafikas: 'draudejai_1_2/', params: 1, chartType: 'bar', url1: 0
+		},{
+			text: '<b><i>Draudėjų skaičius --></i></b> Valstybės biudžetinių įstaigų draudėjų skaičius (tūkst.)', leaf: true, grafikas: 'draudejai_1_3/', params: 1, chartType: 'bar', url1: 0
+		},{
+			text: '<b><i>Draudėjų skaičius --></i></b> Draudėjų,išskyrus valstybės biudžetinių įstaigas, skaičius (tūkst.)', leaf: true, grafikas: 'draudejai_1_4/', params: 1, chartType: 'bar', url1: 0
+		},{
+			text: '<b><i>Draudėjų skaičius --> </i></b>Draudėjų skaičiaus metų paskutiniais ketvirčiais kitimas pagal tipus (tūkst.)', leaf: true, grafikas: 'draudejai_1_5/', params: 1, chartType: 'line', url1: 1
+		},{
+			text: '<b><i>Draudėjų įsiskolinimo rodikliai --> </i></b>Skolingų draudėjų skaičius ir jų skola (metais)', leaf: true, grafikas: 'draudejai_2_1/', params: 0, chartType: 'barline', minval: 0, axesval: ['tūkst.', 'mln. €']
+		},{
+			text: '<b><i>Draudėjų įsiskolinimo rodikliai --> </i></b>Skolingų draudėjų skaičius ir jų skola (ketvirčiais)', leaf: true, grafikas: 'draudejai_2_2/', params: 1, chartType: 'barline', minval: 0, axesval: ['tūkst.', 'mln. €'], url1: 0
+		}]
+	},{
+		text: '<b>Apdraustieji',
+		items:[{
+			text: '<b><i>Apdraustieji --></i></b> Valstybiniu socialiniu draudimu apdraustų asmenų skaičiaus kitimas (tūkst.)', leaf: true, grafikas: 'apdraustieji_1_4/', params: 0, chartType: 'barstack'
+		},{
+			text: '<b><i>Apdraustieji --></i></b> Apdraustųjų pasiskirstymas pagal kategorijas (tūkst.)', leaf: true, grafikas: 'apdraustieji_1_1/', params: 2, chartType: 'pie', url1: 0, url2: 0
+		},{
+			text: '<b><i>Apdraustieji --> </i></b>Apdraustųjų pasiskirstymas pasirinktoje kategorijoje 2015 metų I ketvirtį', leaf: true, grafikas: 'apdraustieji_1_2/', params: 3, chartType: 'pie', url1: 0, url2: 0
+		},{
+			text: '<b><i>Apdraustieji --> </i></b>Apdraustųjų visomis socialinio draudimo rūšimis skaičius pagal profesiją (30 didžiausių, tūkst.)', leaf: true, grafikas: 'apdraustieji_1_3/', params: 2, chartType: 'barSon2', url1: 0, url2: 0
+		},{
+			text: '<b><i>Vidutinės apdraustųjų pajamos --> </i></b>Vidutinių apdraustųjų visomis socialinio draudimo rūšimis pajamų, nuo kurių skaičiuojamos įmokos, kitimas (€)', leaf: true, grafikas: 'apdraustieji_2_1/', params: 0, chartType: 'barline', minval: -10, axesval: ['€', '%']
+		},{
+			text: '<b><i>Vidutinės apdraustųjų pajamos --> </i></b>Vidutinis apdraustųjų visomis draudimo rūšimis skaičius (tūkst.) ir jų vidutinės pajamos (€) pagal savivaldybes', leaf: true, grafikas: 'apdraustieji_2_2/', params: 1, chartType: 'barline', minval: 0, axesval: ['tūkst.', '€'], url1: 1
+		},{
+			text: '<b><i>Vidutinės apdraustųjų pajamos --> </i></b>Apdraustųjų visomis draudimo rūšimis skaičius (tūkst.) ir jų vidutinės pajamos (€) pagal savivaldybes', leaf: true, grafikas: 'apdraustieji_2_3/', params: 2, chartType: 'barline', minval: 0, axesval: ['tūkst.', '€'], url1: 0, url2: 1
+		},{
+			text: '<b><i>Vidutinės apdraustųjų pajamos --> </i></b>Adraustųjų visomis socialinio draudimo rūšimis vidutinės pajamos pagal profesiją (30 didžiausių, €)', leaf: true, grafikas: 'apdraustieji_2_4/', params: 2, chartType: 'barSon2', url1: 0, url2: 0
+		},{
+			text: '<b><i>Vidutinių apdraustųjų pajamų analizė --> </i></b>Apdraustųjų, dirbusių ne mažiau kaip 30 d. per mėnesį, pasiskirstymas pagal pajams, amžių ir lytį (tūkst.)', leaf: true, grafikas: 'apdraustieji_3_1/', params: 4, chartType: 'barSon', url1: 0, url2: 0
+		},{
+			text: '<b><i>Vidutinių apdraustųjų pajamų analizė --> </i></b>Apdraustųjų, dirbusių ne mažiau kaip 30 d. per mėnesį biudžetinėje sferoje, pasiskirstymas pagal pajams, amžių ir lytį (tūkst.)', leaf: true, grafikas: 'apdraustieji_3_2/', params: 4, chartType: 'barSon', url1: 0, url2: 0
+		},{
+			text: '<b><i>Vidutinių apdraustųjų pajamų analizė --> </i></b>Apdraustųjų, dirbusių ne mažiau kaip 30 d. per mėnesį ne biudžetinėje sferoje, pasiskirstymas pagal pajams, amžių ir lytį (tūkst.)', leaf: true, grafikas: 'apdraustieji_3_3/', params: 4, chartType: 'barSon', url1: 0, url2: 0
+		},{
+			text: '<b><i>Priskaičiuota ir sumokėta įmokų suma --></i></b> Draudėjų priskaičiuota ir sumokėta įmokų suma pagal draudėjų grupes (mln. €) (metais)', leaf: true, grafikas: 'apdraustieji_4_1/', params: 0, chartType: 'bar2line2'
+		},{
+			text: '<b><i>Priskaičiuota ir sumokėta įmokų suma --> </i></b>Draudėjų priskaičiuota ir sumokėta įmokų suma pagal draudėjų grupes (mln. €) (ketvirčiais)', leaf: true, grafikas: 'apdraustieji_4_2/', params: 1, chartType: 'bar2line2', url1: 0
+		}]
+	},{
+		text: '<b>Ūkio subjektų priežiūra',
+		items: [{
+			text: 'Skolingų draudėjų skaičiaus santykis su bendru draudėjų skaičiumi (proc.)', leaf: true, grafikas: 'prieziura_11_1/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: 'Skolingų ir neskolingų draudėjų skaičius pagal draudėjų tipus', leaf: true, grafikas: 'prieziura_11_2/', params: 2, chartType: 'pie', url1: 0, url2: 0
+		},{
+			text: 'Skolingų ir neskolingų draudėjų skaičius pagal draudėjų tipus 2', leaf: true, grafikas: 'prieziura_18_2/', params: 3, chartType: 'pie', url1: 0, url2: 0
+		},{
+			text: 'Bendras ir Fondo biudžetui skolingų draudėjų skaičius', leaf: true, grafikas: 'prieziura_11_3/', params: 3, chartType: 'bar2', url1: 0, url2: 0
+		},{
+			text: 'Draudėjų, kuriems pritaikytos skolų išieškojimo priemonės, skaičiasu santykis su bendru draudėjų skaičiumi (proc.)', leaf: true, grafikas: 'prieziura_12_1/', params: 2, chartType: 'bar', url1: 0, url2: 1
+		},{
+			text: 'Draudėjų, kuriems skolos išieškojimui buvo taikytos ir kuriems nebuvo taikytos pricerstinio poveikio priemonės, skaičius pagal draudėjų tipus', leaf: true, grafikas: 'prieziura_12_2/', params: 2, chartType: 'pie', url1: 0, url2: 0
+		},{
+			text: 'Bendras draudėjų ir draudėjų (pagal jų tipus), kuriems taikytos skolų išieškojimo priemonės, skaičius', leaf: true, grafikas: 'prieziura_12_3/', params: 3, chartType: 'bar2', url1: 0, url2: 0
+		},{
+			text: 'Iniciatyvų siekiant sumažinti administracinę naštą ir nepagrįstus, neproporcingus ūkinės veiklos suvaržymus skaičius', leaf: true, grafikas: 'prieziura_13_1/', params: 1, chartType: 'bar', url1: 0
+		},{
+			text: 'Draudėjai, teigiantys, kad konsultacija buvo naudinga, padėjo siuprasti teisės aktus ir jų laikytis', leaf: true, grafikas: 'prieziura_14_2/', params: 1, chartType: 'bar2', url1: 0, url2: 0
+		},{
+			text: 'Draudėjai, teigiantys, kad pirmaisiais veiklos metais gavo naudingų konsultacijų', leaf: true, grafikas: 'prieziura_15_2/', params: 1, chartType: 'bar2', url1: 0, url2: 0
+		},{
+			text: 'Draudėjai, teigiantys, kad pirmaisiais veiklos metais jiems nebuvo taikytos poveikio priemonės (proc.)', leaf: true, grafikas: 'prieziura_16_2/', params: 1, chartType: 'bar2', url1: 0, url2: 0
+		},{
+			text: 'Apdraustųjų asmenų duomenų tvarkymo kokybė (proc.)', leaf: true, grafikas: 'prieziura_17_1/', params: 3, chartType: 'barSon', url1: 0, url2: 0
+		},{
+			text: 'Apdraustųjų asmenų, apie kuriuos nepateikti duomenys ir duomenų nepateikusių draudėjų skaičius', leaf: true, grafikas: 'prieziura_17_2/', params: 3, chartType: 'barson4', url1: 0, url2: 0
+		}]
+	}]	
+}

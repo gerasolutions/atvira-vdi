@@ -1,0 +1,41 @@
+{
+  "success" : true,
+  "data" : [ {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Ekonominė veiklos sekcija",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Asmenų skaičius",
+      "label" : "Asmenų skaičius",
+      "units" : "asmenys"
+    } ],
+    "title" : "ND prevencijos metu nustatyta neteisėtai ar pažeidžiant DPR, DA reikalavimus dirbusių asmenų",
+    "description" : null,
+    "externalResource" : null
+  } ]
+}

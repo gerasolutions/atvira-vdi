@@ -1,0 +1,209 @@
+{
+  "success" : true,
+  "data" : [ {
+    "id" : 1,
+    "name" : "BENDROSIOS DARBO KODEKSO (DK) NUOSTATOS",
+    "label" : "BENDROSIOS DARBO KODEKSO (DK) NUOSTATOS",
+    "val1" : "0.00"
+  }, {
+    "id" : 2,
+    "name" : "KOLEKTYVINIAI DARBO SANTYKIAI",
+    "label" : "KOLEKTYVINIAI DARBO SANTYKIAI",
+    "val1" : "0.00"
+  }, {
+    "id" : 3,
+    "name" : "GARANTIJOS DARBUOTOJŲ ATSTOVAMS",
+    "label" : "GARANTIJOS DARBUOTOJŲ ATSTOVAMS",
+    "val1" : "0.00"
+  }, {
+    "id" : 4,
+    "name" : "LENGVATOS IR GARANTIJOS JAUNIEMS ASMENIMS",
+    "label" : "LENGVATOS IR GARANTIJOS JAUNIEMS ASMENIMS",
+    "val1" : "0.00"
+  }, {
+    "id" : 5,
+    "name" : "LENGVATOS IR GARANTIJOS NĖŠČIOMS, NESENIAI PAGIMDŽIUSIOMS, KRŪTIMI...",
+    "label" : "LENGVATOS IR GARANTIJOS NĖŠČIOMS, NESENIAI PAGIMDŽIUSIOMS, KRŪTIMI...",
+    "val1" : "0.00"
+  }, {
+    "id" : 6,
+    "name" : "LENGVATOS IR GARANTIJOS ASMENIMS, AUGINANTIEMS VAIKUS",
+    "label" : "LENGVATOS IR GARANTIJOS ASMENIMS, AUGINANTIEMS VAIKUS",
+    "val1" : "0.00"
+  }, {
+    "id" : 7,
+    "name" : "LENGVATOS IR GARANTIJOS NEĮGALIESIEMS",
+    "label" : "LENGVATOS IR GARANTIJOS NEĮGALIESIEMS",
+    "val1" : "0.00"
+  }, {
+    "id" : 8,
+    "name" : "ĮDARBINIMAS. DARBO SUTARTIS",
+    "label" : "ĮDARBINIMAS. DARBO SUTARTIS",
+    "val1" : "29.00"
+  }, {
+    "id" : 9,
+    "name" : "DARBO LAIKAS",
+    "label" : "DARBO LAIKAS",
+    "val1" : "128.00"
+  }, {
+    "id" : 10,
+    "name" : "POILSIO LAIKAS",
+    "label" : "POILSIO LAIKAS",
+    "val1" : "28.00"
+  }, {
+    "id" : 11,
+    "name" : "DARBO UŽMOKESTIS (DU)",
+    "label" : "DARBO UŽMOKESTIS (DU)",
+    "val1" : "39.00"
+  }, {
+    "id" : 12,
+    "name" : "DARBO UŽMOKESČIO LENGVATOS GARANTIJOS IR KOMPENSACIJOS",
+    "label" : "DARBO UŽMOKESČIO LENGVATOS GARANTIJOS IR KOMPENSACIJOS",
+    "val1" : "0.00"
+  }, {
+    "id" : 13,
+    "name" : "GARANTIJOS KOMANDIRUOTIESIEMS Į LIETUVOS RESPUBLIKĄ",
+    "label" : "GARANTIJOS KOMANDIRUOTIESIEMS Į LIETUVOS RESPUBLIKĄ",
+    "val1" : "0.00"
+  }, {
+    "id" : 14,
+    "name" : "DARBO DRAUSMĖ",
+    "label" : "DARBO DRAUSMĖ",
+    "val1" : "1.00"
+  }, {
+    "id" : 15,
+    "name" : "MATERIALINĖ ATSAKOMYBĖ",
+    "label" : "MATERIALINĖ ATSAKOMYBĖ",
+    "val1" : "0.00"
+  }, {
+    "id" : 16,
+    "name" : "GARANTIJOS KOMANDIRUOTIESIEMS IŠ LIETUVOS RESPUBLIKOS",
+    "label" : "GARANTIJOS KOMANDIRUOTIESIEMS IŠ LIETUVOS RESPUBLIKOS",
+    "val1" : "1.00"
+  }, {
+    "id" : 17,
+    "name" : "KITI DARBO TEISĖS KLAUSIMAI",
+    "label" : "KITI DARBO TEISĖS KLAUSIMAI",
+    "val1" : "0.00"
+  }, {
+    "id" : 18,
+    "name" : "DARBUOTOJŲ SAUGOS IR SVEIKATOS VALDYMAS",
+    "label" : "DARBUOTOJŲ SAUGOS IR SVEIKATOS VALDYMAS",
+    "val1" : "35.00"
+  }, {
+    "id" : 19,
+    "name" : "DARBO VIETŲ ĮRENGIMAS",
+    "label" : "DARBO VIETŲ ĮRENGIMAS",
+    "val1" : "174.00"
+  }, {
+    "id" : 20,
+    "name" : "DARBO PRIEMONĖS",
+    "label" : "DARBO PRIEMONĖS",
+    "val1" : "28.00"
+  }, {
+    "id" : 21,
+    "name" : "APSAUGA NUO PAVOJINGŲ CHEMINIŲ MEDŽIAGŲ POVEIKIO",
+    "label" : "APSAUGA NUO PAVOJINGŲ CHEMINIŲ MEDŽIAGŲ POVEIKIO",
+    "val1" : "3.00"
+  }, {
+    "id" : 22,
+    "name" : "DARBUOTOJŲ SAUGOS IR SVEIKATOS VIDINĖ KONTROLĖ ĮMONĖJE",
+    "label" : "DARBUOTOJŲ SAUGOS IR SVEIKATOS VIDINĖ KONTROLĖ ĮMONĖJE",
+    "val1" : "101.00"
+  }, {
+    "id" : 23,
+    "name" : "PRIVALOMI SVEIKATOS PATIKRINIMAI",
+    "label" : "PRIVALOMI SVEIKATOS PATIKRINIMAI",
+    "val1" : "37.00"
+  }, {
+    "id" : 24,
+    "name" : "DARBUOTOJŲ EVAKUACIJOS BEI AVARIJŲ PREVENCIJOS IR LIKVIDAVIMO PLANAI",
+    "label" : "DARBUOTOJŲ EVAKUACIJOS BEI AVARIJŲ PREVENCIJOS IR LIKVIDAVIMO PLANAI",
+    "val1" : "3.00"
+  }, {
+    "id" : 25,
+    "name" : "ĮMONĖS BUITIES, SANITARINĖS IR HIGIENOS PATALPOS",
+    "label" : "ĮMONĖS BUITIES, SANITARINĖS IR HIGIENOS PATALPOS",
+    "val1" : "15.00"
+  }, {
+    "id" : 26,
+    "name" : "DARBDAVIUI ATSTOVAUJANČIO ASMENS, JO ĮGALIOTO ASMENS ATESTAVIMAS",
+    "label" : "DARBDAVIUI ATSTOVAUJANČIO ASMENS, JO ĮGALIOTO ASMENS ATESTAVIMAS",
+    "val1" : "30.00"
+  }, {
+    "id" : 27,
+    "name" : "DARBUOTOJŲ INSTRUKTAVIMAS, MOKYMAS IR ATESTAVIMAS DSS KLAUSIMAIS",
+    "label" : "DARBUOTOJŲ INSTRUKTAVIMAS, MOKYMAS IR ATESTAVIMAS DSS KLAUSIMAIS",
+    "val1" : "79.00"
+  }, {
+    "id" : 28,
+    "name" : "DARBUOTOJŲ APRŪPINIMAS SAUGOS IR SVEIKATOS PRIEMONĖMIS",
+    "label" : "DARBUOTOJŲ APRŪPINIMAS SAUGOS IR SVEIKATOS PRIEMONĖMIS",
+    "val1" : "44.00"
+  }, {
+    "id" : 29,
+    "name" : "SVEIKATOS PRIEŽIŪROS PASLAUGŲ ORGANIZAVIMAS",
+    "label" : "SVEIKATOS PRIEŽIŪROS PASLAUGŲ ORGANIZAVIMAS",
+    "val1" : "0.00"
+  }, {
+    "id" : 30,
+    "name" : "DARBDAVIŲ PAREIGOS",
+    "label" : "DARBDAVIŲ PAREIGOS",
+    "val1" : "10.00"
+  }, {
+    "id" : 31,
+    "name" : "DARBUOTOJŲ PAREIGOS IR TEISĖS",
+    "label" : "DARBUOTOJŲ PAREIGOS IR TEISĖS",
+    "val1" : "0.00"
+  }, {
+    "id" : 32,
+    "name" : "JAUNŲ ASMENŲ DARBAS",
+    "label" : "JAUNŲ ASMENŲ DARBAS",
+    "val1" : "0.00"
+  }, {
+    "id" : 33,
+    "name" : "MOTINYSTĖS SAUGA",
+    "label" : "MOTINYSTĖS SAUGA",
+    "val1" : "0.00"
+  }, {
+    "id" : 34,
+    "name" : "DIRBANČIŲ NEĮGALIŲJŲ SAUGOS IR SVEIKATOS GARANTIJOS",
+    "label" : "DIRBANČIŲ NEĮGALIŲJŲ SAUGOS IR SVEIKATOS GARANTIJOS",
+    "val1" : "2.00"
+  }, {
+    "id" : 35,
+    "name" : "DARBUOTOJŲ SAUGOS IR SVEIKATOS BŪKLĖS VERTINIMAS",
+    "label" : "DARBUOTOJŲ SAUGOS IR SVEIKATOS BŪKLĖS VERTINIMAS",
+    "val1" : "31.00"
+  }, {
+    "id" : 36,
+    "name" : "DARBO APLINKA",
+    "label" : "DARBO APLINKA",
+    "val1" : "6.00"
+  }, {
+    "id" : 37,
+    "name" : "DARBUOTOJŲ SAUGOS IR SVEIKATOS EKSPERTIZĖ",
+    "label" : "DARBUOTOJŲ SAUGOS IR SVEIKATOS EKSPERTIZĖ",
+    "val1" : "0.00"
+  }, {
+    "id" : 38,
+    "name" : "NELAIMINGI ATSITIKIMAI DARBE",
+    "label" : "NELAIMINGI ATSITIKIMAI DARBE",
+    "val1" : "11.00"
+  }, {
+    "id" : 39,
+    "name" : "PROFESINĖS LIGOS",
+    "label" : "PROFESINĖS LIGOS",
+    "val1" : "0.00"
+  }, {
+    "id" : 40,
+    "name" : "ATLYGINIMAS UŽ SUŽALOTĄ SVEIKATĄ",
+    "label" : "ATLYGINIMAS UŽ SUŽALOTĄ SVEIKATĄ",
+    "val1" : "0.00"
+  }, {
+    "id" : 41,
+    "name" : "KITI DSS KLAUSIMAI",
+    "label" : "KITI DSS KLAUSIMAI",
+    "val1" : "1.00"
+  } ]
+}

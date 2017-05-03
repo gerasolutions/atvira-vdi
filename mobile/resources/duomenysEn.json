@@ -1,0 +1,225 @@
+{
+	items: [{
+		text: '<b>Budget',
+		items: [{
+			text: '<b><i>Structure --></i></b> SSIF cash inflow (EUR million)', leaf: true, grafikas: 'biudzetas_11_1/', params: 2, chartType: 'pie', title: 'Income', url1: 0, url2: 0
+		},{ 
+			text: '<b><i>Structure --></i></b> SSIF calculated cash cost (EUR million)', leaf: true, grafikas: 'biudzetas_11_2/', params: 2, chartType: 'pie', title: 'Expenses', url1: 0, url2: 0
+		},{
+			text: '<b><i>Tendencies --></i></b> Income, expenses and result (EUR million), and the total contribution rate (percent)', leaf: true, grafikas: 'biudzetas_12_1/', params: 0, chartType: 'complex', title: ['Income', 'Expenses', 'Current year results','Total contribution rate']
+		},{
+			text: '<b><i>Tendencies --></i></b> SSIF cash inflow (EUR million)', leaf: true, grafikas: 'biudzetas_12_2/', params: 1, chartType: 'line3', title: ['Planned', 'Actual', 'Actual one year ago'], url1: 0
+		},{
+			text: '<b><i>Tendencies --> </i></b>SSIF calculated cash cost (EUR million)', leaf: true, grafikas: 'biudzetas_12_3/', params: 1, chartType: 'line3', title: ['Planned', 'Actual', 'Actual one year ago'], url1: 0
+		},{
+			text: '<b><i>Tendencies --></i></b> Social Insurance Fund budget result (EUR million)', leaf: true, grafikas: 'biudzetas_12_4/', params: 1, chartType: 'line3', title: ['Planned', 'Actual', 'Actual one year ago'], url1: 0
+		},{
+			text: '<b><i>Types of insurance --></i></b> Social Insurance Fund cash receipts and cash costs calculated and the result by type of insurance (EUR million)', leaf: true, grafikas: 'biudzetas_13_1/', params: 2, chartType: 'barson3', title: ['Inflows', 'Benefits', 'Result'], url1: 0, url2: 0
+		},{
+			text: '<b><i>Debt --></i></b> Social Insurance Fund budget debt (EUR million)', leaf: true, grafikas: 'biudzetas_14_1/', params: 1, chartType: 'bar', title: 'Budget debt', url1: 0
+		}]
+	},{
+		text: '<b>Pensions',
+		items:[{
+			text: '<b><i>Pensions recipients --> </i></b>Number of recipients of pensions by types of pensions (in thousands)', leaf: true, grafikas: 'pensijos_1_1/', params: 2, chartType: 'barSon', title: 'Pension recipients (thousands)', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensions recipients --> </i></b>Number of recipients of pensions by type of pensions and employment (in thousands)', leaf: true, grafikas: 'pensijos_1_2/', params: 2, chartType: 'bar2', title: ['All pension recipients', 'Pension recipients employed at the end of the month'], url1: 0, url2: 1
+		},{
+			text: '<b><i>Pensions recipients --> </i></b>Old-age pension recipients by gender (in thousands)', leaf: true, grafikas: 'pensijos_1_3/', params: 1, chartType: 'bar2line', title: ['Women', 'Men', 'Total'], url1: 0
+		},{
+			text: '<b><i>Pensions recipients --> </i></b>The distribution of the recipients of old-age pension by gender and age groups (in thousands)', leaf: true, grafikas: 'pensijos_1_4/', params: 2, chartType: 'bar2line', title: ['Women', 'Men', 'Total'], url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensions recipients --></i></b> "Distribution of the recipients of work incapacity pensions (awarded since 1 July 2005) by a level of incapacity for work (in thousands)', leaf: true, grafikas: 'pensijos_1_5/', params: 2, chartType: 'pie', title: 'Number of recipients', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensions recipients --></i></b> Distribution of the recipients of incapacity for work by age and level of incapacity for work', leaf: true, grafikas: 'pensijos_1_6/', params: 1, chartType: 'bar', title: 'Number of recipients', url1: 1
+		},{
+			text: '<b><i>Pensions recipients --> </i></b>Distribution of the number of recipients of disability pensions (awarded before 1 July 2005) by invalidity groups (in thousands)', leaf: true, grafikas: 'pensijos_1_7/', params: 2, chartType: 'pie', title: 'Number of recipients', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensions recipients --></i></b> Distribution of the number of recipients of disability pensions by age and invalidity groups', leaf: true, grafikas: 'pensijos_1_8/', params: 1, chartType: 'bar', title: 'Number of recipients', url1: 1
+		},{
+			text: '<b><i>Pensions sizes --></i></b> The average pension by type of pension (EUR)', leaf: true, grafikas: 'pensijos_2_1/', params: 2, chartType: 'barSon', title: 'Average pension', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensions sizes --></i></b>The accrued pension amount by type of pension (EUR million)', leaf: true, grafikas: 'pensijos_2_2/', params: 2, chartType: 'barSon', title: 'Accrued pension amount', url1: 0, url2: 0
+		},{
+			text: '<b><i>Pensions sizes --> </i></b>The average pension by type of pension (EUR) (2)', leaf: true, grafikas: 'pensijos_2_3/', params: 2, chartType: 'bar', title: 'Average pension', url1: 0, url2: 1
+		},{
+			text: '<b><i>Pensions sizes --></i></b> The Accrued pension amount by type of pension (EUR million) (2)', leaf: true, grafikas: 'pensijos_2_4/', params: 2, chartType: 'bar', title: 'Accrued pension amount', url1: 0, url2: 1
+		},{
+			text: '<b><i>Pensions sizes --> </i></b>The average old-age pension (EUR) (in years)', leaf: true, grafikas: 'pensijos_2_5/', params: 0, chartType: 'bar2', title: ['Without the obligatory pension record', 'Having the obligatory pension record']
+		},{
+			text: '<b><i>Pensions sizes --></i></b> The average old-age pension (EUR) (in months)', leaf: true, grafikas: 'pensijos_2_6/', params: 1, chartType: 'bar2', title: ['Without the obligatory pension record', 'Having the obligatory pension record'], url1: 0
+		},{
+			text: '<b><i>Pensions funds --></i></b> Transferred amount (EUR million)', leaf: true, grafikas: 'pensijos_3_1/', params: 0, chartType: 'bar2line', title: ['Transferred amount', 'Appropriations', 'Rate of contribution']
+		},{
+			text: '<b><i>Pensions funds --> </i></b>Amount accured (EUR million) (mln. €)', leaf: true, grafikas: 'pensijos_3_2/', params: 1, chartType: 'barstack4', title: ['All accured pension contributions', "SSI contributions", "State budget contributions", "Participant contributions"], url1: 0
+		},{
+			text: '<b><i>Pensions funds --> </i></b>The number of participants of pension funds (in thousands) (in years)', leaf: true, grafikas: 'pensijos_3_3/', params: 0, chartType: 'bar', title: 'Number of pension accumulation participants'
+		},{
+			text: '<b><i>Pensions funds --></i></b> The number of participants of pension funds (in thousands) (in quarters)', leaf: true, grafikas: 'pensijos_3_4/', params: 1, chartType: 'bar', title: 'Number of pension accumulation participants', url1: 0
+		},{
+			text: '<b><i>Pensions funds --></i></b> Structure of pension accumulation participants (in thousands)', leaf: true, grafikas: 'pensijos_3_5/', params: 1, chartType: 'pie', title: "Group of participants", url1: 1
+		},{
+			text: '<b><i>Pensions funds --></i></b> Changes in the number of participants who will additional pension contributions to pension funds (in thousands)', leaf: true, grafikas: 'pensijos_3_6/', params: 1, chartType: 'barstack2', title: ['Persons submitting the agreement to pay an additional pension contribution to PF', 'New PF participants who will pay an additional pension contribution'], url1: 1
+		},{
+			text: '<b><i>Pensions funds --> </i></b>The number of participants who have suspended payment of contributions to the pension funds (in thousands)', leaf: true, grafikas: 'pensijos_3_7/', params: 1, chartType: 'bar', title: 'Persons who have submitted notices', url1: 1
+		},{
+			text: '<b><i>Pensions funds --></i></b> Changes in the number of pension fund participants who will pay contributions under the conditions in force before 31 December 2012 (in thousands)', leaf: true, grafikas: 'pensijos_3_8/', params: 1, chartType: 'bar'	, title: 'Pension contributions will accumulate under the conditions in force before 31 December 2012', url1: 1
+		}]
+	},{
+		text: '<b>Disease and maternity benefits',
+		items: [{
+			text: '<b><i>Benefits recipients --> </i></b>Number of cases of allowances (recipients) in accordance with the type of allowances (in thousands)', leaf: true, grafikas: 'pasalpos_11_1/', params: 2, chartType: 'line', title: 'Cases of allowances (recipients)', url1: 0, url2: 1
+		},{ 
+			text: '<b><i>Benefits recipients --></i></b> Changes in maternity (paternity) allowance recipients by gender (in thousands)', leaf: true, grafikas: 'pasalpos_11_2/', params: 0, chartType: 'bar2', title: ['Women', 'Men']
+		},{ 
+			text: '<b><i>Benefits recipients --> </i></b>Number of maternity (paternity) allowance recipients by gender (in thousands)', leaf: true, grafikas: 'pasalpos_11_3/', params: 1, chartType: 'bar2', title: ['Women', 'Men'], url1: 0
+		},{
+			text: '<b><i>Benefits sizes --> </i></b>Changes in average allowances by types of allowances (EUR)', leaf: true, grafikas: 'pasalpos_12_1/', params: 0, chartType: 'line5', title: ['The average one-day sickness allowance', 'The average monthly maternity (paternity) allowance', 'The average one-day maternity allowance', 'The average one-day vocational rehabilitation allowance', 'The average monthly paternity allowance']
+		},{
+			text: '<b><i>Benefits sizes --></i></b> The average allowance by type of allowance (EUR)', leaf: true, grafikas: 'pasalpos_12_2/', params: 2, chartType: 'bar', title: 'Average allowance', url1: 0, url2: 1
+		},{ 
+			text: '<b><i>Benefits sizes --> </i></b>Changes in the average allowance in municipalities by type of allowance (EUR)', leaf: true, grafikas: 'pasalpos_12_3/', params: 2, chartType: 'bar', title: 'Average allowance', url1: 1, url2: 1
+		},{
+			text: '<b><i>Total benefits --></i></b> Changes in the amount of accrued allowances by types of allowances (EUR million)', leaf: true, grafikas: 'pasalpos_13_1/', params: 1, chartType: 'line', title: 'Amount of accrued allowances', url1: 1
+		},{
+			text: '<b><i>Total benefits --> </i></b>The amount of accrued allowances by types of allowances (EUR million)', leaf: true, grafikas: 'pasalpos_13_2/', params: 2, chartType: 'bar', title: 'Amount of accrued allowances', url1: 0, url2: 1
+		},{
+			text: '<b><i>Total benefits --> </i></b>Changes in the amounts of accrued allowances by types and subtypes of allowances (EUR million)', leaf: true, grafikas: 'pasalpos_13_3/', params: 1, chartType: 'line', title: 'Amount of accrued allowances', url1: 1
+		},{
+			text: '<b><i>Total benefits --></i></b> Changes in the amounts of accrued allowances by types and subtypes of allowances (EUR million)', leaf: true, grafikas: 'pasalpos_13_4/', params: 2, chartType: 'bar', title: 'Amount of accrued allowances', url1: 0, url2: 1
+		},{
+			text: '<b><i>Paid benefits days number --></i></b> Changes in the number of paid days (allowances) by types of allowances (in thousands)', leaf: true, grafikas: 'pasalpos_14_1/', params: 1, chartType: 'line', title: 'Number of paid days (allowances)', url1: 1
+		},{
+			text: '<b><i>Paid benefits days number --> </i></b>The number of paid days (allowances) by types of allowances (in thousands)', leaf: true, grafikas: 'pasalpos_14_2/', params: 2, chartType: 'bar', title: 'Number of paid days (allowances)', url1: 0, url2: 1
+		},{
+			text: '<b><i>Paid benefits days number --></i></b> Changes in the number of paid days (allowances) by types and subtypes of allowances (in thousands)', leaf: true, grafikas: 'pasalpos_14_3/', params: 1, chartType: 'line', title: 'Number of paid days (allowances)', url1: 1
+		},{
+			text: '<b><i>Paid benefits days number --></i></b> The number of paid days (allowances) by types and subtypes of allowances (in thousands)', leaf: true, grafikas: 'pasalpos_14_4/', params: 2, chartType: 'bar', title: 'Number of paid days (allowances)', url1: 0, url2: 1
+		}]
+	},{
+		text: '<b>Accidents at work and occupational disease benefits',
+		items: [{
+			text: '<b><i>Benefits recipients --> </i></b>Number of benefits (recipients) for occupational accidents and occupational diseases by type of benefits (in thousands)', leaf: true, grafikas: 'pasalpos_21_1/', params: 1, chartType: 'line5', title: ['Sickness allowance due to the insured event', 'Periodic compensation for loss of capacity for work', 'Lump-sum compensation for loss of capacity for work', 'Periodic insurance benefit upon the death of an insured person', 'Lump-sum insurance benefit upon the death of an insured person'], url1: 0
+		},{
+			text: '<b><i>Benefits recipients --></i></b> The number of recipients of sickness allowances due to the insured event by reason', leaf: true, grafikas: 'pasalpos_21_2/', params: 1, chartType: 'bar2', title: ['Diseases due to occupational accidents accidents on the way to or from work', 'Occupational disease benefit'], url1: 0
+		},{ 
+			text: '<b><i>Benefits recipients --> </i></b>The number of recipients of lump-sum compensation for loss of capacity for work according to the type and level of lost capacity for work', leaf: true, grafikas: 'pasalpos_21_3/', params: 2, chartType: 'bar2', title: ['Permanently lost capacity for work', 'Temporarily lost capacity for work'], url1: 0, url2: 1
+		},{ 
+			text: '<b><i>Benefits recipients --> </i></b>The number of recipients of occupational accident and occupational disease benefits by gender (in thousands)', leaf: true, grafikas: 'pasalpos_21_4/', params: 1, chartType: 'bar2line', title: ['Women', 'Men', 'Total'], url1: 0
+		},{
+			text: '<b><i>Total benefits --> </i></b>Structure of payment of occupational accident and occupational disease benefits (EUR, million)', leaf: true, grafikas: 'pasalpos_22_1/', params: 1, chartType: 'pie', title: 'Accrued amount', url1: 0
+		},{
+			text: '<b><i>Total benefits --> </i></b>The amount of benefits accrued for occupational accidents and occupational diseases (EUR, million)', leaf: true, grafikas: 'pasalpos_22_2/', params: 1, chartType: 'line5', title: ['Sickness allowance due to the insured event', 'Periodic compensation for loss of capacity for work', 'Lump-sum compensation for loss of capacity for work', 'Periodic insurance benefit upon the death of an insured person', 'Lump-sum insurance benefit upon the death of an insured person'], url1: 0
+		},{
+			text: '<b><i>Benefits number --> </i></b>The amount of benefits for occupational accidents and occupational diseases by type of benefits (in thousands)', leaf: true, grafikas: 'pasalpos_23_1/', params: 1, chartType: 'pie', title: 'Number of benefits', url1: 0
+		},{
+			text: '<b><i>Benefits number --> </i></b>Number of benefits for occupational accidents and occupational diseases by types of benefits (in thousands)', leaf: true, grafikas: 'pasalpos_23_2/', params: 1, chartType: 'line4', title: ['Periodic compensation for loss of capacity for work', 'Lump-sum compensation for loss of capacity for work', 'Periodic insurance benefit upon the death of an insured person', 'Lump-sum insurance benefit upon the death of an insured person'], url1: 0
+		}]
+	},{
+		text: '<b>Unemployment insurance benefits',
+		items: [{
+			text: '<b><i>Benefits recipients --> </i></b>Number of benefit recipients (in thousands)', leaf: true, grafikas: 'pasalpos_31_1/', params: 1, chartType: 'bar2', title: ['For a full month', 'For an incomplete month'], url1: 0
+		},{ 
+			text: '<b><i>Benefits recipients --> </i></b>Number of benefit recipients by gender (in thousands)', leaf: true, grafikas: 'pasalpos_31_2/', params: 3, chartType: 'pie', title: 'Number of recipients', url1: 0, url2: 0
+		},{ 
+			text: '<b><i>Benefits recipients --> </i></b>Average number of benefit recipients in municipalities (in thousands)', leaf: true, grafikas: 'pasalpos_31_7/', params: 1, chartType: 'bar', title: 'Average number of recipients', url1: 1
+		},{
+			text: '<b><i>Benefits recipients --></i></b> Number of benefit recipients in municipalities (in thousands)', leaf: true, grafikas: 'pasalpos_31_3/', params: 2, chartType: 'bar', title: 'Number of recipients', url1: 0, url2: 1
+		},{ 
+			text: '<b><i>Benefits recipients --> </i></b>Number of benefit recipients by gender and age (in thousands)', leaf: true, grafikas: 'pasalpos_31_4/', params: 2, chartType: 'bar2line', title: ['Women', 'Men', 'Total'], url1: 0, url2: 0
+		},{ 
+			text: '<b><i>Benefits recipients --></i></b> Number of benefit recipients according to the benefit amount (for a full month) and gender (in thousands)', leaf: true, grafikas: 'pasalpos_31_5/', params: 2, chartType: 'bar2line', title: ['Women', 'Men', 'Total'], url1: 0, url2: 0
+		},{
+			text: '<b><i>Benefits sizes --> </i></b>The average benefit (for a complete month, EUR)', leaf: true, grafikas: 'pasalpos_32_1/', params: 2, chartType: 'bar', title: 'Average benefit', url1: 0, url2: 1
+		},{
+			text: '<b><i>Benefits sizes --> </i></b>The average benefit in municipalities (for a complete month, EUR) (in years)', leaf: true, grafikas: 'pasalpos_32_3/', params: 1, chartType: 'bar', title: 'Average benefit', url1: 1
+		},{ 
+			text: '<b><i>Benefits sizes --></i></b> The average benefit in municipalities (for a complete month, EUR) (in month)', leaf: true, grafikas: 'pasalpos_32_2/', params: 2, chartType: 'bar', title: 'Average benefit', url1: 0, url2: 1
+		},{
+			text: '<b><i>Total benefits --></i></b> The amount of benefits accrued (EUR million)', leaf: true, grafikas: 'pasalpos_33_1/', params: 1, chartType: 'bar2', title: ['For a full month', 'For an incomplete month'], url1: 0
+		},{
+			text: '<b><i>Total benefits --> </i></b>The amount of benefits accrued in municipalities (EUR thousand)', leaf: true, grafikas: 'pasalpos_33_2/', params: 2, chartType: 'bar', title: 'Accrued amount', url1: 0, url2: 1
+		},{
+			text: '<b><i>The average duration of the payment of benefits --></i></b> The average duration of benefit payments (for a full month, month)', leaf: true, grafikas: 'pasalpos_34_1/', params: 2, chartType: 'bar', title: 'Average duration of payments', url1: 0, url2: 1
+		},{
+			text: '<b><i>The average duration of the payment of benefits --></i></b> The average duration of benefit payments in municipalities (for a full month, month) (in years)', leaf: true, grafikas: 'pasalpos_34_3/', params: 1, chartType: 'bar', title: 'Average duration of payments', url1: 1
+		},{
+			text: '<b><i>The average duration of the payment of benefits --> </i></b>The average duration of benefit payments in municipalities (for a full month, month) (in month)', leaf: true, grafikas: 'pasalpos_34_2/', params: 2, chartType: 'bar', title: 'Average duration of payments', url1: 0, url2: 1
+		}]
+	},{
+		text: '<b>The insurers ',
+		items: [{
+			text: '<b><i>Number of insurers --> </i></b>Changes in the number of insurers during the last quarter (in thousands)', leaf: true, grafikas: 'draudejai_1_1/', params: 0, chartType: 'line', title: 'Number of insurers during the last quarter'
+		},{
+			text: '<b><i>Number of insurers --></i></b>Number of insurers (in thousands)', leaf: true, grafikas: 'draudejai_1_2/', params: 1, chartType: 'bar', title: 'Number of insurers', url1: 0
+		},{
+			text: '<b><i>Number of insurers --></i></b> The number of insurers of State budgetary institutions (in thousands)', leaf: true, grafikas: 'draudejai_1_3/', params: 1, chartType: 'bar', title: 'Number of insurers', url1: 0
+		},{
+			text: '<b><i>Number of insurers --></i></b> The number of insurers, except for State budgetary institutions (in thousands)', leaf: true, grafikas: 'draudejai_1_4/', params: 1, chartType: 'bar', title: 'Number of insurers', url1: 0
+		},{
+			text: '<b><i>Number of insurers --> </i></b>Changes in the number of insurers during the last quarter by types (in thousands)', leaf: true, grafikas: 'draudejai_1_5/', params: 1, chartType: 'line', title: 'Number of insurers during the last quarter', url1: 1
+		},{
+			text: '<b><i>The insurers debt rates --> </i></b>The number of indebted insurers and their debt (in years)', leaf: true, grafikas: 'draudejai_2_1/', params: 0, chartType: 'barline', title: ['Number of insurers', 'Insurers debt'], minval: 0, axesval: ['thousands.', 'million. €']
+		},{
+			text: '<b><i>The insurers debt rates --> </i></b>The number of indebted insurers and their debt (in quarters)', leaf: true, grafikas: 'draudejai_2_2/', params: 1, chartType: 'barline', title: ['Number of insurers', 'Insurers debt'], minval: 0, axesval: ['thousands.', 'million. €'], url1: 0
+		}]
+	},{
+		text: '<b>The insured',
+		items:[{
+			text: '<b><i>The insured --></i></b> Changes in the number of persons covered by the state social insurance (in thousands)', leaf: true, grafikas: 'apdraustieji_1_4/', params: 0, chartType: 'barstack', title: ['The insured by all types of social insurance', 'Other insured by compulsory insurance', 'Self-insured persons', 'Persons covered on a voluntary basis', 'Persons covered on a voluntary basis to receive allowances']
+		},{
+			text: '<b><i>The insured --></i></b> Distribution of the insured by category (in thousands)', leaf: true, grafikas: 'apdraustieji_1_1/', params: 2, chartType: 'pie', title: 'Number of the insured', url1: 0, url2: 0
+		},{
+			text: '<b><i>The insured --> </i></b>The distribution of the insured in a selected category', leaf: true, grafikas: 'apdraustieji_1_2/', params: 3, chartType: 'pie', title: 'Number of the insured', url1: 0, url2: 0
+		},{
+			text: '<b><i>The insured --> </i></b>Number of insured by all kinds of social insurance in accordance to profession (30 major, in thous.)', leaf: true, grafikas: 'apdraustieji_1_3/', params: 2, chartType: 'barSon2', title: 'Number of the insured', url1: 0, url2: 0
+		},{
+			text: '<b><i>Avarage insured earnings --> </i></b>Changes in average income of the insured covered by all types of social insurance on which contributions are calculated (EUR)', leaf: true, grafikas: 'apdraustieji_2_1/', params: 0, chartType: 'barline', title: ['Average income of the insured', 'Change compared with the previous year'], minval: -10, axesval: ['€', '%']
+		},{
+			text: '<b><i>Avarage insured earnings --> </i></b>The average number of persons covered by all types of insurance (in thousands) and their average income (EUR) by municipality', leaf: true, grafikas: 'apdraustieji_2_2/', params: 1, chartType: 'barline', title: ['Average income of the insured', 'Average income of the insured'], minval: 0, axesval: ['thousand', '€'], url1: 1
+		},{
+			text: '<b><i>Avarage insured earnings --> </i></b>The number of persons covered by all types of insurance (in thousands) and their average income (LTL) by municipality', leaf: true, grafikas: 'apdraustieji_2_3/', params: 2, chartType: 'barline', title: ['Number of insured persons', 'Average income of the insured'], minval: 0, axesval: ['thousand', '€'], url1: 0, url2: 1
+		},{
+			text: '<b><i>Avarage insured earnings --> </i></b>Average income of insured by all kinds of social insurance in accordance to profession (30 major, in EUR)', leaf: true, grafikas: 'apdraustieji_2_4/', params: 2, chartType: 'barSon2', title: 'Average income of the insured', url1: 0, url2: 0
+		},{
+			text: '<b><i>Avarage insured earnings analysis --> </i></b>Distribution of the insured, who worked at least 30 days per month, according to income, age and gender (in thousands)', leaf: true, grafikas: 'apdraustieji_3_1/', params: 4, chartType: 'barSon', title: 'Number of the insured', url1: 0, url2: 0
+		},{
+			text: '<b><i>Avarage insured earnings analysis --> </i></b>Distribution of the insured, who worked at least 30 days per month in budgetary sphere, according to income, age and gender (in thousands)', leaf: true, grafikas: 'apdraustieji_3_2/', params: 4, chartType: 'barSon', title: 'Number of the insured', url1: 0, url2: 0
+		},{
+			text: '<b><i>Avarage insured earnings analysis --> </i></b>Distribution of the insured, who worked at least 30 days per month not in budgetary sphere, according to income, age and gender (in thousands)', leaf: true, grafikas: 'apdraustieji_3_3/', params: 4, chartType: 'barSon', title: 'Number of the insured', url1: 0, url2: 0
+		},{
+			text: '<b><i>Calculated and paid sum of fees --></i></b> The amount of contributions accrued by the insured and paid according to the groups of the insured (EUR million) (in years)', leaf: true, grafikas: 'apdraustieji_4_1/', params: 0, chartType: 'bar2line2', title: ['The amount of contributions accrued by the State budget institutions', 'The amount of contributions paid by the State budget institutions', 'The amount of contributions accrued by other insurers', 'The amount of contributions paid by other insurers']
+		},{
+			text: '<b><i>Calculated and paid sum of fees --> </i></b>The amount of contributions accrued by the insured and paid according to the groups of the insured (EUR million) (in quarters)', leaf: true, grafikas: 'apdraustieji_4_2/', params: 1, chartType: 'bar2line2', title: ['The amount of contributions accrued by the State budget institutions', 'The amount of contributions paid by the State budget institutions', 'The amount of contributions accrued by other insurers', 'The amount of contributions paid by other insurers'], url1: 0
+		}]
+	},{
+		text: '<b>Economy subject supervision',
+		items: [{
+			text: 'The ratio of the number of insurers owing to the total number of insurers (percent)', leaf: true, grafikas: 'prieziura_11_1/', params: 2, chartType: 'bar', title: 'Ratio', url1: 0, url2: 1
+		},{
+			text: 'The number of owing and not owing insurers by types of insurers', leaf: true, grafikas: 'prieziura_11_2/', params: 2, chartType: 'pie', title: 'Number of insurers', url1: 0, url2: 0
+		},{
+			text: 'The number of owing and not owing insurers by types of insurers 2', leaf: true, grafikas: 'prieziura_18_2/', params: 3, chartType: 'pie', title: 'Number of insurers', url1: 0, url2: 0
+		},{
+			text: "The total number of insurers and insurers owed to the Fund's budget", leaf: true, grafikas: 'prieziura_11_3/', params: 3, chartType: 'bar2', title: ['Total number of insurers', 'Indebted insurers'], url1: 0, url2: 0
+		},{
+			text: 'The ratio of the number of insurers, against whom the debt recovery measures are applied, to the total number of insurers (percent)', leaf: true, grafikas: 'prieziura_12_1/', params: 2, chartType: 'bar', title: 'Ratio', url1: 0, url2: 1
+		},{
+			text: 'The number of insurers against whom coercive measures for debt recovery were applied and were not applied by types of insurers', leaf: true, grafikas: 'prieziura_12_2/', params: 2, chartType: 'pie', title: 'Number of insurers', url1: 0, url2: 0
+		},{
+			text: 'The total number of insurers and insurers (by types of insurers) who have been subject to enforcement measures for recovery of debts', leaf: true, grafikas: 'prieziura_12_3/', params: 3, chartType: 'bar2', title: ['Total number of insurers', 'Insurers who have been subject to enforcement measures for recovery of debts'], url1: 0, url2: 0
+		},{
+			text: 'The number of initiatives to reduce the administrative burden and unjustified, disproportionate economic constrains', leaf: true, grafikas: 'prieziura_13_1/', params: 1, chartType: 'bar', title: 'Number of initiatives', url1: 0
+		},{
+			text: 'Insurers stating that the consultation was useful and helped to understand the legal acts and follow them (percent)', leaf: true, grafikas: 'prieziura_14_2/', params: 1, chartType: 'bar2', title: 'Number of insurers', url1: 0, url2: 0
+		},{
+			text: 'Insurers stating that during the first year of operation they received helpful advice (percent)', leaf: true, grafikas: 'prieziura_15_2/', params: 1, chartType: 'bar2', title: 'Number of insurers', url1: 0, url2: 0
+		},{
+			text: 'Insurers stating that sanctions have not been applied against them during the first year of operation (percent)', leaf: true, grafikas: 'prieziura_16_2/', params: 1, chartType: 'bar2', title: 'Number of insurers', url1: 0, url2: 0
+		},{
+			text: 'Insured persons\' data quality management (percent)', leaf: true, grafikas: 'prieziura_17_1/', params: 3, chartType: 'barSon', title: 'Insured persons\' data quality management', url1: 0, url2: 0
+		},{
+			text: 'The number of the insured persons in respect of which data was not provided and number of insurers who failed to submit data', leaf: true, grafikas: 'prieziura_17_2/', params: 3, chartType: 'barson4', title: ['The insured persons whose data was not provided', 'Insurers who did not provide data on the insured'], url1: 0, url2: 0
+		}]
+	}]	
+}

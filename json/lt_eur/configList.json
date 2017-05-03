@@ -1,0 +1,380 @@
+{
+  "nda_2" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Ekonominė veiklos sekcija",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Ispektavimų skaičius",
+      "label" : "Ispektavimų skaičius",
+      "units" : "inspektavimai"
+    } ],
+    "title" : "VDI atlikta ND prevencijos inspektavimų (surašyta ND tyrimo aktų)",
+    "description" : null,
+    "externalResource" : null
+  },
+  "nda_3" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Ekonominė veiklos sekcija",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Atvejų skaičius",
+      "label" : "Atvejų skaičius",
+      "units" : "atvejai"
+    } ],
+    "title" : "Atvejų, kai nustatyta neteisėtai dirbusių asmenų",
+    "description" : null,
+    "externalResource" : null
+  },
+  "nda_4" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Ekonominė veiklos sekcija",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Asmenų skaičius",
+      "label" : "Asmenų skaičius",
+      "units" : "asmenys"
+    } ],
+    "title" : "Nustatyta neteisėtai dirbusių asmenų iš viso",
+    "description" : null,
+    "externalResource" : null
+  },
+  "nda_5" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Ekonominė veiklos sekcija",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Atvejų skaičius",
+      "label" : "Atvejų skaičius",
+      "units" : "atvejai"
+    } ],
+    "title" : "ND prevencijos metu nustatyta atvejų, kai buvo dirbama pažeidžiant DPR, DA reikalavimus",
+    "description" : null,
+    "externalResource" : null
+  },
+  "nda_6" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Ekonominė veiklos sekcija",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Asmenų skaičius",
+      "label" : "Asmenų skaičius",
+      "units" : "asmenys"
+    } ],
+    "title" : "ND prevencijos metu nustatyta asmenų, dirbusių pažeidžiant DPR, DA reikalavimus",
+    "description" : null,
+    "externalResource" : null
+  },
+  "nda_7" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Ekonominė veiklos sekcija",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Atvejų skaičius",
+      "label" : "Atvejų skaičius",
+      "units" : "atvejai"
+    } ],
+    "title" : "ND prevencijos metu nustatyta atvejų, kai buvo dirbama neteisėtai ar pažeidžiant DPR, DA reikalavimus",
+    "description" : null,
+    "externalResource" : null
+  },
+  "nda_8" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Ekonominė veiklos sekcija",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Asmenų skaičius",
+      "label" : "Asmenų skaičius",
+      "units" : "asmenys"
+    } ],
+    "title" : "ND prevencijos metu nustatyta neteisėtai ar pažeidžiant DPR, DA reikalavimus dirbusių asmenų",
+    "description" : null,
+    "externalResource" : null
+  },
+  "r1_1" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Pažeidimų grupė",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Pažeidimų skaičius",
+      "label" : "Pažeidimų skaičius",
+      "units" : "vnt."
+    } ],
+    "title" : "Pažeidimai reikalavimuose R1 pagal pažeidimų tipus",
+    "description" : null,
+    "externalResource" : null
+  },
+  "r1_2" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : false,
+    "measuresRow" : 0,
+    "measuresCol" : 0,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : false
+    }, {
+      "name" : "kind",
+      "label" : "Pažeidimų grupė",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 2,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Pažeidimų skaičius",
+      "label" : "Pažeidimų skaičius",
+      "units" : "vnt."
+    } ],
+    "title" : "Pažeidimai reikalavimuose R1 pagal pažeidimų grupes",
+    "description" : null,
+    "externalResource" : null
+  },
+  "r1_3" : {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : true,
+    "measuresRow" : 0,
+    "measuresCol" : 2,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Darbo teisės pažeidimai",
+      "label" : "Darbo teisės pažeidimai",
+      "units" : "pažeidimai"
+    }, {
+      "field" : "val2",
+      "name" : "Darbuotojų saugos ir sveikatos pažeidimai",
+      "label" : "Darbuotojų saugos ir sveikatos pažeidimai",
+      "units" : "pažeidimai"
+    } ],
+    "title" : "Pažeidimai reikalavimuose R1 pagal pažeidimų tipus",
+    "description" : null,
+    "externalResource" : null
+  }
+}

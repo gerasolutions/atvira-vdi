@@ -1,0 +1,39 @@
+{
+  "success" : true,
+  "data" : [ {
+    "dataRow" : 4,
+    "dataCol" : 3,
+    "measuresVertical" : true,
+    "measuresRow" : 0,
+    "measuresCol" : 2,
+    "dimensions" : [ {
+      "name" : "year",
+      "label" : "Metai",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 0,
+      "categorical" : false
+    }, {
+      "name" : "quarter",
+      "label" : "Ketvirtis",
+      "vertical" : true,
+      "row" : 0,
+      "col" : 1,
+      "categorical" : true
+    } ],
+    "measures" : [ {
+      "field" : "val1",
+      "name" : "Darbo teisės pažeidimai",
+      "label" : "Darbo teisės pažeidimai",
+      "units" : "pažeidimai"
+    }, {
+      "field" : "val2",
+      "name" : "Darbuotojų saugos ir sveikatos pažeidimai",
+      "label" : "Darbuotojų saugos ir sveikatos pažeidimai",
+      "units" : "pažeidimai"
+    } ],
+    "title" : "Pažeidimai reikalavimuose R1 pagal pažeidimų tipus",
+    "description" : null,
+    "externalResource" : null
+  } ]
+}

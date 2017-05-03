@@ -1,0 +1,9 @@
+{
+  "success" : true,
+  "data" : [ {
+    "id" : 1,
+    "name" : "quarter",
+    "label" : "I ketvirtis",
+    "default" : true
+  } ]
+}

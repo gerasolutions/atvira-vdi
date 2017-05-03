@@ -1,0 +1,114 @@
+{
+  "success" : true,
+  "data" : [ {
+    "id" : 1,
+    "name" : "A. Žemės ūkis, miškininkystė ir žuvininkystė",
+    "label" : "A. Žemės ūkis, miškininkystė ir žuvininkystė",
+    "val1" : "47.00"
+  }, {
+    "id" : 2,
+    "name" : "B. Kasyba ir karjerų eksploatavimas",
+    "label" : "B. Kasyba ir karjerų eksploatavimas",
+    "val1" : "0.00"
+  }, {
+    "id" : 3,
+    "name" : "C. Apdirbamoji gamyba",
+    "label" : "C. Apdirbamoji gamyba",
+    "val1" : "13.00"
+  }, {
+    "id" : 4,
+    "name" : "D. Elektros, dujų, garo tiekimas ir oro kondicionavimas",
+    "label" : "D. Elektros, dujų, garo tiekimas ir oro kondicionavimas",
+    "val1" : "0.00"
+  }, {
+    "id" : 5,
+    "name" : "E. Vandens tiekimas, nuotekų valymas, atliekų tvarkymas ir regeneravimas",
+    "label" : "E. Vandens tiekimas, nuotekų valymas, atliekų tvarkymas ir regeneravimas",
+    "val1" : "2.00"
+  }, {
+    "id" : 6,
+    "name" : "F. Statyba",
+    "label" : "F. Statyba",
+    "val1" : "133.00"
+  }, {
+    "id" : 7,
+    "name" : "G. Didmeninė ir mažmeninė prekyba",
+    "label" : "G. Didmeninė ir mažmeninė prekyba",
+    "val1" : "33.00"
+  }, {
+    "id" : 8,
+    "name" : "H. Transportas ir saugojimas",
+    "label" : "H. Transportas ir saugojimas",
+    "val1" : "8.00"
+  }, {
+    "id" : 9,
+    "name" : "I. Apgyvendinimo ir maitinimo paslaugų veikla",
+    "label" : "I. Apgyvendinimo ir maitinimo paslaugų veikla",
+    "val1" : "9.00"
+  }, {
+    "id" : 10,
+    "name" : "J. Informacija ir ryšiai",
+    "label" : "J. Informacija ir ryšiai",
+    "val1" : "0.00"
+  }, {
+    "id" : 11,
+    "name" : "K. Finansinė ir draudimo veikla",
+    "label" : "K. Finansinė ir draudimo veikla",
+    "val1" : "0.00"
+  }, {
+    "id" : 12,
+    "name" : "L. Nekilnojamojo turto operacijos",
+    "label" : "L. Nekilnojamojo turto operacijos",
+    "val1" : "2.00"
+  }, {
+    "id" : 13,
+    "name" : "M. Profesinė, mokslinė ir techninė veikla",
+    "label" : "M. Profesinė, mokslinė ir techninė veikla",
+    "val1" : "0.00"
+  }, {
+    "id" : 14,
+    "name" : "N. Administracinė ir aptarnavimo veikla",
+    "label" : "N. Administracinė ir aptarnavimo veikla",
+    "val1" : "26.00"
+  }, {
+    "id" : 15,
+    "name" : "O. Viešasis valdymas ir gynyba; privalomasis socialinis draudimas",
+    "label" : "O. Viešasis valdymas ir gynyba; privalomasis socialinis draudimas",
+    "val1" : "0.00"
+  }, {
+    "id" : 16,
+    "name" : "P. Švietimas",
+    "label" : "P. Švietimas",
+    "val1" : "0.00"
+  }, {
+    "id" : 17,
+    "name" : "Q. Žmonių sveikatos priežiūra ir socialinis darbas",
+    "label" : "Q. Žmonių sveikatos priežiūra ir socialinis darbas",
+    "val1" : "1.00"
+  }, {
+    "id" : 18,
+    "name" : "R. Meninė, pramoginė ir poilsio organizavimo veikla",
+    "label" : "R. Meninė, pramoginė ir poilsio organizavimo veikla",
+    "val1" : "1.00"
+  }, {
+    "id" : 19,
+    "name" : "S. Kita aptarnavimo veikla",
+    "label" : "S. Kita aptarnavimo veikla",
+    "val1" : "8.00"
+  }, {
+    "id" : 20,
+    "name" : "T. Namų ūkių, samdančių darbininkus, veikla",
+    "label" : "T. Namų ūkių, samdančių darbininkus, veikla",
+    "val1" : "0.00"
+  }, {
+    "id" : 21,
+    "name" : "U. Ekstrateritorinių organizacijų ir įstaigų veikla",
+    "label" : "U. Ekstrateritorinių organizacijų ir įstaigų veikla",
+    "val1" : "0.00"
+  }, {
+    "id" : 22,
+    "name" : "Nenurodyta",
+    "label" : "Nenurodyta",
+    "val1" : "0.00"
+  } ]
+}

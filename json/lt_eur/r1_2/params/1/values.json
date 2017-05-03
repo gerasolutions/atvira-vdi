@@ -1,0 +1,24 @@
+{
+  "success" : true,
+  "data" : [ {
+    "id" : 1,
+    "name" : "quarter",
+    "label" : "I ketvirtis",
+    "default" : false
+  }, {
+    "id" : 2,
+    "name" : "quarter",
+    "label" : "I-II ketvirčiai",
+    "default" : false
+  }, {
+    "id" : 3,
+    "name" : "quarter",
+    "label" : "I-III ketvirčiai",
+    "default" : false
+  }, {
+    "id" : 4,
+    "name" : "quarter",
+    "label" : "I-IV ketvirčiai",
+    "default" : true
+  } ]
+}
